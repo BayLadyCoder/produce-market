@@ -1,0 +1,15 @@
+:root {
+  --dark_green:rgb(9, 46, 15);
+  --green: rgb(18, 86, 29);
+}
+
+* {
+    box-sizing:border-box;
+}
+
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+

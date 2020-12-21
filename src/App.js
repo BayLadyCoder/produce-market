@@ -1,14 +1,13 @@
+import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Button from "react-bootstrap/Button";
 import Container from "react-bootstrap/Container";
+import Header from "./components/Header";
 
 function App() {
   return (
-    <Container>
-      <header>
-        <Button variant="primary">Primary</Button>{" "}
-      </header>
-    </Container>
+    <div className="wrapper">
+      <Header />
+    </div>
   );
 }
 
