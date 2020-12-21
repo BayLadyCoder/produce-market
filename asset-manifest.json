@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/produce-market/static/css/main.4501194c.chunk.css",
+    "main.js": "/produce-market/static/js/main.0e29e7a6.chunk.js",
+    "main.js.map": "/produce-market/static/js/main.0e29e7a6.chunk.js.map",
+    "runtime-main.js": "/produce-market/static/js/runtime-main.b15988c4.js",
+    "runtime-main.js.map": "/produce-market/static/js/runtime-main.b15988c4.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/produce-market/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1d6eeeb2.chunk.js": "/produce-market/static/js/2.1d6eeeb2.chunk.js",
+    "static/js/2.1d6eeeb2.chunk.js.map": "/produce-market/static/js/2.1d6eeeb2.chunk.js.map",
+    "static/js/3.b8fb0253.chunk.js": "/produce-market/static/js/3.b8fb0253.chunk.js",
+    "static/js/3.b8fb0253.chunk.js.map": "/produce-market/static/js/3.b8fb0253.chunk.js.map",
+    "index.html": "/produce-market/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/produce-market/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.4501194c.chunk.css.map": "/produce-market/static/css/main.4501194c.chunk.css.map",
+    "static/js/2.1d6eeeb2.chunk.js.LICENSE.txt": "/produce-market/static/js/2.1d6eeeb2.chunk.js.LICENSE.txt",
+    "static/media/ShopFeature.css": "/produce-market/static/media/veg2-sm.d6717563.jpg",
+    "static/media/Header.css": "/produce-market/static/media/produce-sm.b423caa8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b15988c4.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1d6eeeb2.chunk.js",
+    "static/css/main.4501194c.chunk.css",
+    "static/js/main.0e29e7a6.chunk.js"
+  ]
+}
