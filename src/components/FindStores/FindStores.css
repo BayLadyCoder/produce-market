@@ -19,8 +19,8 @@ p {
 #google-map {
     margin-top: 15px;
     background-color: rgb(213, 213, 213);
-    width: 310px;
-    height: 310px;
+    width: 300px;
+    height: 300px;
 }
 
 #search-results {
@@ -43,7 +43,10 @@ p {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
+    min-width: 290px;
+    border-radius: 5px;
+
 }
 
 .website, .address, .phone {
