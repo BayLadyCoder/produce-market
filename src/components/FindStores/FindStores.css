@@ -19,8 +19,8 @@ p {
 #google-map {
     margin-top: 15px;
     background-color: rgb(213, 213, 213);
-    width: 250px;
-    height: 250px;
+    width: 310px;
+    height: 310px;
 }
 
 #search-results {
@@ -28,7 +28,7 @@ p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 80%;
+    width: 90%;
 }
 
 #results-header-text {
@@ -43,7 +43,7 @@ p {
     display: flex;
     justify-content: space-around;
     align-items: center;
-
+    margin-bottom: 5px;
 }
 
 .website, .address, .phone {
@@ -62,8 +62,7 @@ p {
 }
 
 .address {
-    text-align: center;
-    width:55%;
+    flex: 1;
 }
 
 .phone {

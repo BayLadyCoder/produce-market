@@ -12,7 +12,7 @@ const Header = () => {
         {/* <Image src="./images/logo.jpg" className="img" fluid /> */}
         <div className="justify-content-center align-items-center img">
           <div id="overlay"></div>
-          <p className="headerText">Produce Market</p>
+          <p className="headerText">Produze</p>
           <div id="btnContainer">
             <Button variant="success" id="shopNowBtn" className="btn">
               Shop Now
